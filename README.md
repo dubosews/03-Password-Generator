@@ -1,5 +1,9 @@
 # Password Generator
 
+<center>
+<img src="assets/img/03_passwordGenScreenshot.png" style="width:75%">
+</center>
+
 ## Table of Contents
   1. [Description](#description) 
   2. [Installation](#installation)
